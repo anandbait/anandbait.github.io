@@ -292,6 +292,7 @@ DEPENDENCIES
   bundler
   faraday-retry
   github-pages (= 228)
+  jekyll
   jekyll-admin
   jekyll-feed
   jekyll-gist (~> 1.5.0)
