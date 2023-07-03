@@ -15,7 +15,7 @@ gem "github-pages", "= 228", group: :jekyll_plugins
 # Plugins
 group :jekyll_plugins do
     # gem 'devlopr', '~> 0.4.5'
-    gem 'jgd', '~> 1.12'
+    gem 'jgd', '~> 1.13'
     gem 'jekyll-feed'
     gem 'jekyll-paginate', '~> 1.1.0'
     gem 'jekyll-gist', '~> 1.5.0'
