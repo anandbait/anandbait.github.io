@@ -11,10 +11,10 @@
                         <img class="author-profile-img" src="{{site.url}}/assets/img/authors/{{author.avatar}}" alt="{{author.name}}" />
                       {% endif %}
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-8">
                         <p class="author_bio">{{author.bio}}</p>
-                        <p>Email : {{author.email}}</p>
-                        <p>Website : {{author.site}}</p>
+                        <p>Email : <a href="mailto:{{author.email}}">{{author.email}}</a></p>
+                        <p>Website : <a href="{{author.site}}" target="_blank">{{author.site}}</a></p>
                         <p class="profile-links">
                             {% for network in author.social %}
                                 <a class="social-link" href="{{ network.url }}" target="_blank"><i class="fab fa-{{ network.title }} fa-fw"></i></a>
