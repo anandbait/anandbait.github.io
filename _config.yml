@@ -8,18 +8,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
-    - text: About
-      url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Blog
+    url: /blog
+  - text: Gallery
+    url: /gallery
+  - text: Shop
+    url : /shop
+  - text: Contact
+    url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -35,64 +35,64 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Allerin
-              company_logo: allerin.png
-              company_url: https://allerin.com
-              designation: Member of Technical Staff
-              description: Worked on projects from various domains like fintech, social media, CMS, HRMS, etc.
-              visibility: true
-            - company_name: Webonise
-              company_logo: webonise.jpeg
-              company_url: https://webonise.com
-              designation: Senior Software Developer
-              description: Worked on Ruby on Rails project
-              visibility: true
-            - company_name: Tata Consultancy Services (TCS)
-              company_logo: tcs.png
-              company_url: https://tcs.com
-              designation: IT Analyst
-              description: Worked on various Ruby on Rails projects for a client
-              visibility: true
-            - company_name: MSCI (Morgan Stanley Capital International)
-              company_logo: msci.png
-              company_url: https://msci.com
-              designation: Associate (Ruby on Rails Developer)
-              description: Worked on product
-              visibility: true
-            - company_name: Coupa
-              company_logo: coupa.png
-              company_url: https://coupa.com
-              designation: Senior Software Engineer
-              description: Worked on Ruby on Rails product
-              visibility: true
-            - company_name: Agnos
-              company_logo: agnos.png
-              company_url: https://agnos.com
-              designation: Technical Lead
-              description: Worked on Ruby on Rails product
-              visibility: true
+  - company_name: Allerin
+    company_logo: allerin.png
+    company_url: https://allerin.com
+    designation: Member of Technical Staff
+    description: Worked on projects from various domains like fintech, social media, CMS, HRMS, etc.
+    visibility: true
+  - company_name: Webonise
+    company_logo: webonise.jpeg
+    company_url: https://webonise.com
+    designation: Senior Software Developer
+    description: Worked on Ruby on Rails project
+    visibility: true
+  - company_name: Tata Consultancy Services (TCS)
+    company_logo: tcs.png
+    company_url: https://tcs.com
+    designation: IT Analyst
+    description: Worked on various Ruby on Rails projects for a client
+    visibility: true
+  - company_name: MSCI (Morgan Stanley Capital International)
+    company_logo: msci.png
+    company_url: https://msci.com
+    designation: Associate (Ruby on Rails Developer)
+    description: Worked on product
+    visibility: true
+  - company_name: Coupa Software
+    company_logo: coupa.png
+    company_url: https://coupa.com
+    designation: Senior Software Engineer
+    description: Worked on Ruby on Rails product
+    visibility: true
+  - company_name: Agnos Inc
+    company_logo: agnos.png
+    company_url: https://agnos.io
+    designation: Technical Lead
+    description: Worked on Ruby on Rails product
+    visibility: true
 
 # Education
 author_education_details:
-              - college_logo: atharva.jpeg
-                college_name: Atharva College Of Engineering
-                college_url: https://atharvacoe.ac.in/
-                college_degree: B.E. (Computers)
-                description: Bachelor of Engineering (Computers)
-                visibility: true
+  - college_logo: atharva.jpeg
+    college_name: Atharva College Of Engineering
+    college_url: https://atharvacoe.ac.in/
+    college_degree: B.E. (Computers)
+    description: Bachelor of Engineering (Computers)
+    visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+  - project_thumbnail: gamershub.png
+    project_title: Gamers Hub
+    project_description: A Platform built for Gamers and Game Devs
+    project_url: https://gamershub.in
+    visibility: true
+  - project_thumbnail: hack4r.PNG
+    project_title: Hack4r
+    project_description: A Platform built for Hackers and Penetration Testers
+    project_url: https://hack4r.com
+    visibility: true
 
 # social links
 twitter_username: anand_bait

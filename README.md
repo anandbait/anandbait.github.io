@@ -150,11 +150,11 @@ $ bundle audit
 ```
 
 ### Deploy your devlopr-jekyll blog - One Click Deploy
-
+<!--
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/sujaykundu777/devlopr-jekyll)
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sujaykundu777/devlopr-jekyll)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sujaykundu777/devlopr-jekyll)
-
+-->
 ### Github Actions
 
 This Project has actions to auto deploy jekyll to github pages and firebase. The deployment target can be set by editing the `DEPLOY_STRATEGY` file. Valid values are:
@@ -165,14 +165,14 @@ This Project has actions to auto deploy jekyll to github pages and firebase. The
   * `FIREBASE_PROJECT_ID`: the project id of the project you just created
 
 ### Demo (Hosted Apps)
-
+<!--
 - Github Pages Demo - [here](https://sanketkundu.github.io/)
 - Firebase Demo - [here](https://devlopr.web.app)
 - Netlify Demo - [here](https://devlopr.netlify.com)
 - Vercel Demo - [here](https://devlopr-jekyll.vercel.app/#/)
 - Heroku Demo - [here](https://devlopr-jekyll.herokuapp.com)
 - AWS Amplify Demo - [here](https://master.d3t30wwddt6jju.amplifyapp.com/)
-
+-->
 #### Features :
 
 - Local CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
@@ -201,7 +201,7 @@ You can check out for all changelogs [here](https://devlopr.olvy.co/)
 
 ```s
 git remote -v
-git remote add upstream https://github.com/sujaykundu777/devlopr-jekyll.git
+git remote add upstream https://github.com/anandbait/anandbait.github.io.git
 git fetch upstream
 git checkout master
 git merge upstream/master
@@ -251,7 +251,7 @@ This project exists thanks to all the people who contribute.
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://sujaykundu.com"><img src="https://avatars.githubusercontent.com/u/10703200?v=4?s=100" width="100px;" alt="Sujay Kundu"/><br /><sub><b>Sujay Kundu</b></sub></a><br /><a href="#infra-sujaykundu777" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-sujaykundu777" title="Design">🎨</a> <a href="https://github.com/sujaykundu777/devlopr-jekyll/commits?author=sujaykundu777" title="Code">💻</a></td>
+      <td align="center"><a href="https://sujaykundu.com"><img src="https://avatars.githubusercontent.com/u/10703200?v=4?s=100" width="100px;" alt="Anand Bait"/><br /><sub><b>Anand Bait</b></sub></a><br /><a href="#infra-sujaykundu777" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-sujaykundu777" title="Design">🎨</a> <a href="https://github.com/sujaykundu777/devlopr-jekyll/commits?author=sujaykundu777" title="Code">💻</a></td>
       <td align="center"><a href="https://rmrt1n.github.io/"><img src="https://avatars.githubusercontent.com/u/51780559?v=4?s=100" width="100px;" alt="Ryan Martin"/><br /><sub><b>Ryan Martin</b></sub></a><br /><a href="#infra-rmrt1n" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center"><a href="http://don't have one"><img src="https://avatars.githubusercontent.com/u/6252713?v=4?s=100" width="100px;" alt="Jack Wu"/><br /><sub><b>Jack Wu</b></sub></a><br /><a href="https://github.com/sujaykundu777/devlopr-jekyll/issues?q=author%3Ajackneer" title="Bug reports">🐛</a></td>
       <td align="center"><a href="https://github.com/russdreamer"><img src="https://avatars.githubusercontent.com/u/10559538?v=4?s=100" width="100px;" alt="Iga Kovtun"/><br /><sub><b>Iga Kovtun</b></sub></a><br /><a href="#design-russdreamer" title="Design">🎨</a> <a href="https://github.com/sujaykundu777/devlopr-jekyll/issues?q=author%3Arussdreamer" title="Bug reports">🐛</a></td>
