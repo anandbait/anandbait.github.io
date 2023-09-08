@@ -80,6 +80,12 @@ author_education_details:
     college_degree: B.E. (Computers)
     description: Bachelor of Engineering (Computers)
     visibility: true
+  - college_logo: weschool.jpeg
+    college_name: We School - Welingkar Institute of Management
+    college_url: https://www.welingkar.org/
+    college_degree: PGDM (IT Project Management)
+    description: Post-Graduate Diploma in Management (IT Project Management)
+    visibility: true
 
 # Projects
 author_project_details:
